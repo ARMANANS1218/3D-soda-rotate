@@ -1,6 +1,6 @@
 # CSS Only Spartan Can Mockup
 
-![Preview of the Spartan Can Mockup](./Screenshot.png) <!-- Replace with the actual path to your image file -->
+![Preview of the Spartan Can Mockup](.Screenshot.png) <!-- Replace with the actual path to your image file -->
 
 A CSS-only project to showcase a Spartan-themed can mockup, designed with intricate graphics, bold typography, and a floating effect. This design is created entirely using HTML and CSS, without any JavaScript.
 
