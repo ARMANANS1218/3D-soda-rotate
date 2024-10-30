@@ -1,4 +1,4 @@
-# CSS Only Spartan Can Mockup
+# CSS Only Spartan 
 
 ![Preview of the Spartan Can Mockup](images/sc.png) <!-- Replace with the actual path to your image file -->
 
